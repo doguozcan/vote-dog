@@ -6,6 +6,9 @@ Vote Dog is an app where users can like or dislike dogs.
 It is built in order to practice async logic and data fetching skills in Redux.
 Huge thanks to **<a href="https://www.thedogapi.com/">The Dog Api</a>** for providing the data.
 
+## Reference & Inspiration
+**<a href="https://redux.js.org/tutorials/essentials/part-5-async-logic">Redux Toolkit's Official Documentation: Redux Essentials, Part 5: Async Logic and Data Fetching</a>**
+
 ## Technologies used
 
 - **<a href="https://www.npmjs.com/package/@reduxjs/toolkit">Redux Toolkit</a>**
