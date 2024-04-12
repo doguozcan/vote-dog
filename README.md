@@ -36,4 +36,4 @@ Huge thanks to **<a href="https://www.thedogapi.com/">The Dog Api</a>** for prov
 
 ## Live Preview
 
-- You can visit <a href="https://thriving-brioche-8ca644.netlify.app/">the live preview</a>
+- You can visit <a href="https://lovely-sunflower-725483.netlify.app/">the live preview</a>
