@@ -1,12 +1,13 @@
 # Vote Dog
 
-## About
+## About 🐶
 
 Vote Dog is an app where users can like or dislike dogs.
 It is built in order to practice async logic and data fetching skills in Redux.
 Huge thanks to **<a href="https://www.thedogapi.com/">The Dog Api</a>** for providing the data.
 
-## Screenshot
+## Screenshot 📸
+
 ![dog](https://github.com/doguozcan/vote-dog/assets/76822280/b0314509-ffff-4926-8a1d-011f02a20356)
 
 ## Reference & Inspiration
